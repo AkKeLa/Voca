@@ -1,0 +1,63 @@
+vehicles:транспортные средства
+a flood:наводнение
+a weakness:слабость, недостаток, бессилие
+a influence:воздействие, влияние
+to achieve a target:достигнуть цели
+to get a degree after the graduation from the university:получить диплом по окончании университета
+experienced:опытный, знающий
+to convince:убеждать, уверять
+to remind:напомнить
+to combine:объединить
+to succeed:для достижения успеха
+to do well in life:преуспеть в жизни
+to cope with smth:справляться c
+a dawn:рассвет
+a blood:кровь
+a frost:мороз
+a pie:пирог, торт, пирожок
+patiently:терпеливо
+to commit:совершить, совершать
+a smoother:миротворец, утешитель
+flowing:плавный, текущий
+a valley:долина, впадина
+firstly:во-первых
+secondly:во-вторых
+thirdly:в-третьих
+a forecast:прогноз, предсказание
+a shepherd:пастух, овчарка, пастырь
+for and against:за и против
+to get dressed:одеться
+for a couple of hours:в течение нескольких часов
+an ice-skating rink:каток
+to come out:выходить, появляться
+a skirt:юбка, подол
+to pick up:забрать, подобрать
+a resolution:решение
+in a good mood:в хорошем настроении
+to come in:пребывать, входить
+haunted:часто посещаемый, населенный призраками
+a lounge:гостиная, праздное времяпровождение, холл или комната для отдыха, шезлонг
+to check out:проверить, освобождать номер в гостинице, выехать из гостиницы
+takeaway:навынос
+a porridge (cereal):овсяная каша
+a bowl:чаша, миска
+a grilled chicken breast:жареная куриная грудка
+a sweetcorn:сладкая кукуруза
+a suicide:самоубийство, самоубийца
+to float:плавать на поверхности, всплывает
+а contestant:соперник
+to reduce:уменьшить, снижать, уменьшать
+to obsess:преследовать, овладеть умом, овладеть
+trivia:мелочи, пустяки
+narrow:узкий, тесный, ограниченный
+to turn off the tap:перекрыть кран
+to get off the train:сойти с поезда
+a patient:пациент, больной
+patient:терпеливый, упорный, настойчивый
+a speeding:превышение скорости, езда на большой скорости, езда на недозволенной скорости
+a slowing:замедление
+shown:показанный, указанный
+a lack:отсутствие, недостаток, нужда
+a fear:страх, боязнь, опасения
+mild:мягкий, умеренный, слабый
+a ness:мыс, нос

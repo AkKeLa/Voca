@@ -1,0 +1,81 @@
+a five-storey building:пятиэтажка
+a hall-stand:вешалка
+a furniture:мебель
+a cosy sofa:уютный диван
+a cushion:диванная подушка
+a bedside table:прикроватный столик
+a dressing table:туалетной столик
+a wall lamp:бра
+a floor lamp:торшер
+a wall-unit:мебельная стенка
+a sideboard:сервант
+a bookcase:книжный шкаф
+in front of:напротив
+to the right:направо
+to the left:налево
+opposite:напротив
+behind:позади
+at the wall:у стены
+an entrance door:входная дверь
+to receive our guests:принимать гостей
+to have our meal:кушать
+a stool:табурет
+a vowel:гласная
+a consonant:согласная
+a subject:подлежащее
+a predicate:сказуемое
+an addition:дополнение
+a store:магазин
+a shelf:полка
+to peel:чистить
+to hurt:ударить, повредить
+a sunburnt:ожог
+to catch a cold:простудиться
+to suspect:подозревать
+a suspect:подозреваемый
+boring:скучный
+exciting:волнующе
+any more:больше
+any longer:дольше
+to be frightened:бояться, пугаться
+to fright:пугать, тревожить
+tidy:аккуратный
+neat:чистый, опрятный
+niether me:ни меня
+a fear:страх
+a worry:беспокойство
+a skill:умение
+a customs officer:сотрудники аэропорта
+a face down:текстом вниз
+a customer:покупатель
+a relative:родственник
+imaginative (about person):творческий, с хорошим воображением
+imaginary:воображаемый
+an experience:опыт
+a murderer:убийца
+a clues:зацепка (не улика)
+a difficulty (singular):трудности
+a pace of life:ритм жизни, размеренность
+slightly:слегка
+a passer-by:прохожий
+a pavement:тротуар
+a murder:убийство
+more and less:более менее
+a dice:кубик, кости
+a terrible handwriting:подчерк
+a fiction book:фэнтези
+occasionally:иногда, не не регулярно и не часто (1-2 раза в 10 лет)
+a slipper:тапочки
+once in a while:иногда, хотя не часто (3-4 раза в год)
+frequently:часто
+hardly ever:реже, чем rarely
+to embarrasse:смущаться
+otherwise:в противном случае
+a weight lifting:тяжелая атлетика
+to gain (weight):набирать вес
+checkers:шашки
+to wrestle:драться, бороться
+a leisure activities:во время отдыха делать что-то в удовольствие
+recently:недавно, в последнее время
+an estate agent:агент по продаже недвижимости
+rarely:редко (1 раз в 2-3 года)

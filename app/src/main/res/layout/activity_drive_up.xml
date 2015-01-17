@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="akkela.voca.DriveUp">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:onClick="onBtnClick"
+        android:layout_height="wrap_content"
+        android:text="DriveUp 5."
+        android:id="@+id/DriveUp5"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DriveUp 6."
+        android:id="@+id/DriveUp6"
+        android:onClick="onBtnClick"
+        android:layout_below="@+id/DriveUp5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DriveUp 7."
+        android:id="@+id/DriveUp7"
+        android:onClick="onBtnClick"
+        android:layout_below="@+id/DriveUp6"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/DriveUp6"
+        android:layout_alignEnd="@+id/DriveUp6" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DriveUp 8."
+        android:id="@+id/DriveUp8"
+        android:onClick="onBtnClick"
+        android:layout_below="@+id/DriveUp7"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/DriveUp7"
+        android:layout_alignEnd="@+id/DriveUp7" />
+
+</RelativeLayout>

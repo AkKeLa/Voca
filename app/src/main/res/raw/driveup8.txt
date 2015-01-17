@@ -1,0 +1,52 @@
+a scenery:пейзаж
+a landscape:пейзаж
+a traffic light:светофор
+to get on:садиться в автобус, поезд, самолет, велосипед
+to get off:выходить из автобуса
+to turn right (left):повернуть направо (влево)
+crazy about smth:сильно увлекающийся
+keen on smth:увлеченный
+to give a direction:показывать дорогу
+to go pass smth:пройти мимо
+on (at) the corner:на углу
+to pass the border:пересечь границу
+an oasis:оазис
+a border:граница
+an impression:впечатление
+а skyscraper:небоскреб
+to border on smth:граничить с
+to cause:вызывать, быть причиной
+to evaporate:испарять, испаряться
+to provide:предоставлять, обеспечивать, снабжать
+to stretch:простираться
+salty:соленый
+snow covered:покрытый снегом
+to get lost:потеряться
+a bat:залив, бухта
+a cliff:обрыв, подвесная скала
+you can't miss it:вы не пропустите, вы обязательно увидите
+a fjord:фьорд (узкий, глубокий залив, вдающийся в сушу, со скалистыми берега)
+а glacier:ледник
+a mountain range:горная цепь, горный хребет
+а peninsula:полуостров
+а plain:равнина
+а pond:пруд
+а strait:пролив
+а stream:ручей, течение, поток
+а valley:долина
+a cave:пещера
+a canal:канал (handmade)
+a channel:канал (nature, к морю)
+to get into:садиться в машину, такси
+a hill:холм, возвышенност, гора
+to go to the t-junction:идите до т-образного перекрестка
+at the crossroad:на перекрестке
+to keep walking for about 100 m:пройдите 100 метров
+to walk along the street:идите по дороге
+to go down to the end of the street:идите до конца улицы
+to produce:производить, выпускать
+to deliver:поставлять, доставлять, вручать
+to supply:поставлять, снабжать, подавать
+to give everything needed:дать все необходимое
+to appreciate:ценить, быть признательным
+happy to oblige:рад угодить (служить, сделать отдолжение)

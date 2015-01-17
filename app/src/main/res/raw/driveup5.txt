@@ -1,0 +1,80 @@
+anticipation:ожидание
+nourish:питать
+heavenly:небесный
+uphold:поддерживать
+abide:соблюдать
+even:даже
+odd:странный
+offend:оскорблять
+vivid:яркий
+precious:драгоценный
+on the pier:на пирсе
+the fading sunlight:выцветание солнечный свет
+jealous:ревнивый, завистливый
+whisper:шепот
+fidget:ерзать, суетиться, перебирать (with)
+freckled, freckle faced:веснушчатый
+moustache:усы
+track suit:спортивный костюм
+bald:лысый
+handsome:привлекательный
+casual:повседневной
+plump:полный
+pretty:красивая (о женщине)
+well built:хорошего телосложения
+take off:снимать одежду
+put on:одевать одежду
+good looking:привлекательный
+straight looking:выглядящий странно
+wavy:волнистый
+curly:кудрявый
+eyebrows:брови
+complexion:цвет лица
+courage:храбрость
+manliness:мужественность
+outfit:наряд
+suntan:загар
+wig:парик
+cowardly:трусливый
+dyed:окрашенный
+enormous:огромный
+fashion conscious:следующий моде
+gorgeous:прекрасный, великолепный
+manly:мужественный
+major:зрелый, совершеннолетний
+old-fashioned:старомодный
+overweight:избыточный вес
+pale:бледный
+plain:некрасивый
+scruffy:неряшливый
+sophisticated:утонченный, изысканный
+sun-tanned:загорелый
+baggy:мешковатый (об одежде)
+skinny:очень худой, «кожа да кости»
+cheekbones:скулы (for example, high)
+stubble:щетина
+freckles:веснушки
+dimples:ямочки
+wrinkles:морщины
+eyelashes:ресницы
+muscular:мускулистый
+muscular:мужской род
+look out:осторожно (watch out)
+look for:искать
+look smth up:искать в словаре, наводить справку
+look like smbd:быть похожим на кого-то
+look good:хорошо выглядеть
+look after:присматривать, ухаживать
+look around:осмотреться, по оглядеться кругом
+look forward to:ждать с нетерпением
+straight looking:странная
+look at:посмотреть на
+tall man:about person
+high building:about object
+beautiful, pretty:about woman
+handsome:about man
+attractive:about both woman&man
+complexion:about color of face, not about body type
+what does she look like?:вопрос о внешности
+what does she like?:вопрос о хобби
+what is she like?:вопрос о характере
